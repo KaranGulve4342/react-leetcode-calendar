@@ -1,4 +1,4 @@
-import {UserProfileDetails, UserContestInfo, UserHeatMap, UserRecentSubmission, UserSolvedProblemsStats } from 'react-leetcode'
+import {UserProfileDetails, UserContestInfo, UserHeatMap, UserRecentSubmission, UserSolvedProblemsStats } from 'react-leetcode-calender'
 
 
 function App() {
